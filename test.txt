@@ -1,0 +1,6 @@
+select * from (
+    select rownum r, a  from tableame
+      where rownum < 10 )
+  where r > 4
+  
+rownum between 1 and 2000
