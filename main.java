@@ -3,5 +3,6 @@ public class Hello {
 		System.out.println("Hello world");
 		System.out.println("This is added in 2013.09.05");
 		System.out.println("A new line");
+		String a = "New local branch";
 	}
 }
