@@ -11,3 +11,4 @@ This repo is used for my git learning.
 
 [Reference]
 - Gitignore file: https://github.com/github/gitignore
+- ProGit: https://git-scm.com/book/en/v2
