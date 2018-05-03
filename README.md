@@ -1,4 +1,13 @@
 repo-test
 =========
 
-This is just my first git test, there is not any actual content in this project.
+This repo is used for my git learning.
+
+- Git Basics
+- Git Branching
+- GitHub Related
+- Customizing Git
+- Git Internals
+
+[Reference]
+- Gitignore file: https://github.com/github/gitignore
